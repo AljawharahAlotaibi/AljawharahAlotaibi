@@ -5,4 +5,4 @@
 🌱 My journey in software engineering is fueled by curiosityfor knowledge. I enjoy exploring new technologies, experimenting with different programming languages, and staying updated on the latest industry trends. Whether it's diving into the depths of data structures or building user-friendly interfaces, I'm always eager to learn and grow.
 <hr>
 <h2>How to reach me: </h2>
-- <a href=#/">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/aljawharah-alotaibi-6b996524a/">LinkedIn</a> 💼
